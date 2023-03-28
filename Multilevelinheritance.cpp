@@ -5,7 +5,9 @@ class hey
     int a;
 
 public:
+//     function definition to to enter value using function nam red
     void red()
+        
     {
         cout << "Enter value" << endl;
         cin >> a;
@@ -20,11 +22,12 @@ class orange:public hey
     int b;
 
 public:
-    void red_s()
+    void red_s() 
     {
         cout << "Enter value" << endl;
         cin >> b;
     }
+//     function definition to display elements.
     void display_s()
     {
         cout << "Value is" << b << endl;
