@@ -17,7 +17,7 @@ newone:: newone()
     c=a+b;
 }
 
-int main()
+int main() 
 {
     newone c;
     c.print();
