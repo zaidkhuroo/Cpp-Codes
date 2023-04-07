@@ -13,7 +13,7 @@ public:
         (*this).b = b;
     }
 
-    stream(stream &old) // copy constructor
+    stream(stream &old) // copy constructor 
     {
         a = old.a;
         b = old.b;
