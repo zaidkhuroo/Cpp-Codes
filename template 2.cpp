@@ -14,7 +14,7 @@ else{
 }
 }
 int main(){
-    cout<<"max no is= "<<max(12,4.3)<<endl;
+    cout<<"max no is= "<<max(12,4.3)<<endl; 
     cout<<"max no is= "<<max(13,65.3)<<endl;
     return 0;
 }
