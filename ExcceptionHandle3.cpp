@@ -1,5 +1,5 @@
 //cpp program to catch any kind of data type to overcome the error
-#include <iostream>
+#include <iostream> 
 using namespace std;
 int main()
 {
