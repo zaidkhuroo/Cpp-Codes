@@ -3,7 +3,7 @@ using namespace std;
 template <class t>
 void Swap(t &a, t &b)
 {
-    t temp;
+    t temp; 
     temp = a;
     a = b;
     b = temp;
