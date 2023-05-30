@@ -7,7 +7,7 @@ int main()
         cout << "i am here" << endl;
         throw 1;
         cout << "i am not printed"<<endl;
-    }
+    } 
     catch (int x)
     {
         cout << "i am finally printed" << endl;
