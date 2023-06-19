@@ -4,7 +4,7 @@ using namespace std;
 class tele{
   public:
     tele(){
-        cout<<"constructor invoked"<<endl;  //this will print in s. 2
+        cout<<"constructor invoked"<<endl;  //this will print in s. 2 
     }
     ~tele(){
         cout<<"i am destructor"<<endl;  //as constructer is done invoked this will be printed
