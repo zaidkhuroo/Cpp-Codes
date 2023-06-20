@@ -6,7 +6,7 @@ class hey
 
 public:
     virtual void red()
-    {
+    { 
         cout << "value" << endl;
        
     }
