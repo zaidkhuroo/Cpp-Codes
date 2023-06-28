@@ -7,7 +7,7 @@ void add(int a, int b) //function one with different args
 }
 void add(double x, double y) //function 2nd with different args but with same function name as in above
 {
-    cout <<endl <<"sum =" << (x+y);
+    cout <<endl <<"sum =" << (x+y); 
 }
 
 // main function
