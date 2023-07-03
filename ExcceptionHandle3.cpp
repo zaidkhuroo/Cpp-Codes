@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     try
-    {
+    { 
         cout << "hey" << endl;
         throw 'b';
         cout << "what now" << endl;
