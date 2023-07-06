@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 class super // abstract class
-{
+{ 
 protected:
     float dl;
 
