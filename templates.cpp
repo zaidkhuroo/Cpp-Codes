@@ -7,7 +7,7 @@ t sum(t a,t b)
     }
     int main(){
     
-        cout<<"int sum = "<<sum(5,6)<<endl;
+        cout<<"int sum = "<<sum(5,6)<<endl;   
         cout<<"float sum = "<<sum(1.53,6.7)<<endl;
         return 0;
     }
