@@ -6,7 +6,7 @@ class test
 {
     int a, b, c;
 
-public:
+public: 
     test(int x = 10, int y = 20, int z = 30)
     {
         a = x;
