@@ -4,7 +4,7 @@ template <class T>
 
 class calculator
 {
-private:
+private: 
     T num1, num2;
 
 public:
