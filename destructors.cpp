@@ -8,7 +8,7 @@ class testing{
         count++;
         cout<<"object created\n"<<count;
      }
-     ~testing()
+     ~testing() 
      {
         cout<<"object destructed\n"<<count;
         --count;
