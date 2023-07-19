@@ -6,7 +6,7 @@ using namespace std;
      cout << "i am here" << endl;
     try
     {
-       
+        
         throw 100;
         cout << "i am not printed"<<endl;
     }
