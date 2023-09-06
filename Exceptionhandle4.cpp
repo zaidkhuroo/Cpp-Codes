@@ -1,4 +1,4 @@
-//cpp program to show how the destructor is invoked when the constructer is thrown
+//cpp program to show how the destructor is invoked when the constructer is thrown.
 #include<iostream>
 using namespace std;
 class tele{
