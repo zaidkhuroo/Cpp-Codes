@@ -3,7 +3,7 @@
 using namespace std;
 // void print();
 class stream 
-{
+{ 
     int a, b;
 
 public:
