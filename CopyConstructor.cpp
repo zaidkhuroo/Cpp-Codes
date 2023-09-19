@@ -2,6 +2,7 @@
 #include <conio.h>
 using namespace std;
 // void print();
+// 
 class stream 
 { 
     int a, b;
