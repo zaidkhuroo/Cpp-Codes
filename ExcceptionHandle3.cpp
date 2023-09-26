@@ -5,7 +5,7 @@ int main()
 {
     try
     { 
-        cout << "hey" << endl;
+        cout << "hey" << endl; 
         throw 'b';
         cout << "what now" << endl;
     }
