@@ -6,7 +6,7 @@ int main()
     try
     { 
         cout << "hey" << endl; 
-        throw 'b';
+        throw 'b'; 
         cout << "what now" << endl;
     }
     catch (...)
