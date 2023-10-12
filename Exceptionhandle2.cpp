@@ -4,7 +4,7 @@ int main()
 {
     try
     {
-        cout << "i am here" << endl;
+        cout << "i am here" << endl; 
         throw 1;
         cout << "i am not printed"<<endl;
     } 
