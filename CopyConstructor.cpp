@@ -8,7 +8,7 @@ class stream
     int a, b;
 
 public:
-    stream(int a, int b) // decalring constructor
+    stream(int a, int b) // declaring constructor
     {
         (*this).a = a;
         (*this).b = b;
